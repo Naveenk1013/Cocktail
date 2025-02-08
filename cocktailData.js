@@ -313,7 +313,116 @@ const categories = {
             garnish: "Peach or orange peel",
             ingredients: "2 oz. peach nectar, Champagne"
         }
-    ]
+    ],
+
+    Mocktail: 
+[
+{
+            name: "VIRGIN MOJITO",
+            glass: "Highball",
+            mixingMethod: "Muddle & Build",
+            garnish: "Mint Sprig, Lime Wedge",
+            ingredients: "Mint Leaves, Lime Juice, Sugar, Soda Water"
+        },
+{
+            name: "SHIRLEY TEMPLE",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Maraschino Cherry, Orange Slice",
+            ingredients: "Ginger Ale, Grenadine, Lime Juice"
+        },
+{
+            name: "ARNOLD PALMER",
+            glass: "Collins",
+            mixingMethod: "Build",
+            garnish: "Lemon Wedge",
+            ingredients: "Iced Tea, Lemonade"
+        },
+{
+            name: "VIRGIN PINA COLADA",
+            glass: "Hurricane",
+            mixingMethod: "Blend",
+            garnish: "Pineapple Slice, Cherry",
+            ingredients: "Pineapple Juice, Coconut Cream, Crushed Ice"
+        },
+{
+            name: "NOJITO",
+            glass: "Collins",
+            mixingMethod: "Muddle & Build",
+            garnish: "Mint Sprig",
+            ingredients: "Mint Leaves, Lime Juice, Sugar, Soda Water"
+        },
+{
+            name: "SAFE SEX ON THE BEACH",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Orange Slice",
+            ingredients: "Cranberry Juice, Orange Juice, Peach Nectar"
+        },
+{
+            name: "VIRGIN MARY",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Celery, Lemon Wedge",
+            ingredients: "Tomato Juice, Lemon Juice, Worcestershire, Tabasco"
+        },
+{
+            name: "CINDERELLA",
+            glass: "Hurricane",
+            mixingMethod: "Build",
+            garnish: "Orange Slice, Cherry",
+            ingredients: "Orange Juice, Pineapple Juice, Lemon Juice, Grenadine"
+        },
+{
+            name: "ROY ROGERS",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Lime Wedge",
+            ingredients: "Cola, Grenadine"
+        },
+{
+            name: "FRUIT PUNCH",
+            glass: "Punch Bowl",
+            mixingMethod: "Mix",
+            garnish: "Mixed Fruit Slices",
+            ingredients: "Orange Juice, Pineapple Juice, Lemon Juice, Ginger Ale"
+        },
+{
+            name: "VIRGIN DAIQUIRI",
+            glass: "Coupe",
+            mixingMethod: "Blend",
+            garnish: "Lime Wheel",
+            ingredients: "Strawberry, Lime Juice, Simple Syrup, Crushed Ice"
+        },
+{
+            name: "BASIL LEMONADE",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Basil Leaf, Lemon Wedge",
+            ingredients: "Lemon Juice, Basil, Simple Syrup, Water"
+        },
+{
+            name: "SPARKLING BERRY COOLER",
+            glass: "Wine Glass",
+            mixingMethod: "Build",
+            garnish: "Mixed Berries",
+            ingredients: "Mixed Berry Puree, Lemon Juice, Soda Water"
+        },
+{
+            name: "GINGER LIME FIZZ",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Lime Wheel",
+            ingredients: "Ginger Beer, Lime Juice, Simple Syrup"
+        },
+{
+            name: "VIRGIN CUBA LIBRE",
+            glass: "Highball",
+            mixingMethod: "Build",
+            garnish: "Lime Wedge",
+            ingredients: "Cola, Lime Juice"
+        },
+],
 };
 
 // Create an 'all' category that includes all cocktails
